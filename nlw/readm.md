@@ -7,7 +7,7 @@
 
 projeto construido no evento Next Level Week da Rockseat.
 
-[clique aqui para acessar](https://https://diogohideki1.github.io/works/nlw/)
+> [Clique aqui para acessar](https://https://diogohideki1.github.io/works/nlw/)
 
 ## Tecnologias
 
